@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": 1,
+    "productName": "Smartphone Alpha 12",
+    "descriptionShort": "Tela 6.5\", 128GB, 6GB RAM",
+    "photo": "https://picsum.photos/seed/alpha/600/400",
+    "price": 1999.9,
+    "oldPrice": 2199.9,
+    "installment": { "count": 10, "value": 199.99 },
+    "category": "CELULAR"
+  },
+  {
+    "id": 2,
+    "productName": "Fone Bluetooth Bass",
+    "descriptionShort": "Som potente, 24h bateria",
+    "photo": "https://picsum.photos/seed/bass/600/400",
+    "price": 249.9,
+    "oldPrice": 299.9,
+    "installment": { "count": 6, "value": 41.65 },
+    "category": "ACESSÓRIOS"
+  }
+]
